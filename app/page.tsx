@@ -8,6 +8,7 @@ export default function Home() {
   <h1><b>Hello Nigga</b></h1>
   <Link href="/users">users</Link>
   < ProductCard/>
+  
 </main>
   );
 }
